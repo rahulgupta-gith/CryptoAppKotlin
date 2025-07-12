@@ -24,4 +24,4 @@ The main screeon of the app
 ![Main Screen](screenshot/img2.jpg)
 
 The app also have refresh feature so that we can  get the real time prices of crypto
-![refresh Screen](screemshot/img1.jpg)
+![refresh Screen](screenshot/img1.jpg)
