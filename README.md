@@ -18,3 +18,7 @@ It uses the Binance API to fetch live data and display prices in a clean, respon
 - Retrofit / OkHttp / WebSocket
 - Glide
 - RecyclerView
+
+## 📸 Screenshots
+
+![Main Screen](screenshot/img1.jpg)
