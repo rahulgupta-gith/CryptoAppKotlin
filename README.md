@@ -20,5 +20,8 @@ It uses the Binance API to fetch live data and display prices in a clean, respon
 - RecyclerView
 
 ## 📸 Screenshots
+The main screeon of the app
+![Main Screen](screenshot/img2.jpg)
 
-![Main Screen](screenshot/img1.jpg)
+The app also have refresh feature so that we can  get the real time prices of crypto
+![refresh Screen](screemshot/img1.jpg)
